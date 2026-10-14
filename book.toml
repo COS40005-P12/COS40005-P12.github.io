@@ -1,0 +1,11 @@
+[book]
+title = "Testing mdBook Deployment"
+authors = ["dylan-xg"]
+language = "en"
+
+[rust]
+edition = "2024"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"

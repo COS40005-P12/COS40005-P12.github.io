@@ -1,2 +1,6 @@
+# Junk
 .vscode/
 .DS_STORE
+
+# mdBook output
+book/
