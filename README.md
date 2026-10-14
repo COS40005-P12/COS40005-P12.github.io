@@ -1,2 +1,3 @@
-# dataset-assistant-guide
-A user manual that explains how to create a dataset with the Dataset Assistant.
+# User Manuals
+
+User manuals providing information about how to use different parts of the project.
