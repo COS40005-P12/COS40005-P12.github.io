@@ -20,6 +20,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - uses: Swatinem/rust-cache@v2
+        with:
+          cache-on-failure: false
+
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@v1
         with:
