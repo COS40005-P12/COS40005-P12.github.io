@@ -15,3 +15,5 @@ To do this on linux, put this in your shell's auto-execute file (.bashrc, .zshrc
 Run `mdbook help` to learn how to use it.
 
 Refer to the [mdBook Book](https://rust-lang.github.io/mdBook/index.html) for more detailed usage information.
+
+While you have `mdbook serve` running, adding a new entry to [SUMMARY.md](src/SUMMARY.md) will create the file automatically.
