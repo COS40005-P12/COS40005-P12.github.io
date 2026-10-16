@@ -1,11 +1,17 @@
 [book]
-title = "Testing mdBook Deployment"
-authors = ["dylan-xg"]
+title = "Laser Vision System"
+description = "The system that measures laser intensity deviation using computer vision"
+authors = ["Dylan Glenister"]
 language = "en"
 
 [rust]
 edition = "2024"
 
 [output.html]
-default-theme = "ayu"
+default-theme = "light"
 preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/laser-vision-system/laser-vision-system.github.io"
+
+[output.html.fold]
+enable = true
+level = 2
